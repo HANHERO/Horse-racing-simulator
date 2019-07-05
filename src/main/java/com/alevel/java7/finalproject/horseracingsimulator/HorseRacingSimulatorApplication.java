@@ -1,8 +1,8 @@
 package com.alevel.java7.finalproject.horseracingsimulator;
 
 
-import com.alevel.java7.finalproject.horseracingsimulator.model.Users;
-import com.alevel.java7.finalproject.horseracingsimulator.repository.UserRepository;
+import com.alevel.java7.finalproject.horseracingsimulator.data.model.Users;
+import com.alevel.java7.finalproject.horseracingsimulator.data.repository.UserRepository;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
